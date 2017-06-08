@@ -18,11 +18,11 @@ email (if you have one) (E), web-address (if you have one) (W),
 twitter handle (if you have one) (T) and description (D).
 This list is in chronological order.
 
-N: Sora Sagano
-E: 
-D: Designer
++ N: Sora Sagano
++ E: 
++ D: Designer
 
-N: Stefan Peev, Context Ltd.
-E: context.bg@gmail.com
-W: http://www.contextbg.net
-D: Cyrillic (both basic Cyrillic script and locl forms of Cyrillic for modern Bulgarian Cyrillic, for Serbian Cyrillic, for Macedonian Cyrillic and other languages using Cyrillic alphabet)and modification of some glyphs
++ N: Stefan Peev, Context Ltd.
++ E: context.bg@gmail.com
++ W: http://www.contextbg.net
++ D: Cyrillic (both basic Cyrillic script and locl forms of Cyrillic for modern Bulgarian Cyrillic, for Serbian Cyrillic, for Macedonian Cyrillic and other languages using Cyrillic alphabet)and modification of some glyphs
