@@ -1,17 +1,17 @@
-#Aileron
+# Aileron
 [ドットコロン](http://dotcolon.net/)で公開しているオリジナルフォント「Aileron」のソースファイルです。
 [Glyphs font editor](http://glyphsapp.com/) で開くことができます。
 
 
-##License
+# License
 SIL Open Font Licenseライセンスの元で公開しています。
 
 http://ja.wikipedia.org/wiki/SIL_Open_Font_License
 
-##Copywrite
+# Copywrite
 Copywrite holder of the Aileron typeface is Sora Sagano.
 
-##Acknowledgements
+# Acknowledgements
 
 If you make modifications be sure to add your name (N),
 email (if you have one) (E), web-address (if you have one) (W),
