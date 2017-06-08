@@ -19,7 +19,8 @@ twitter handle (if you have one) (T) and description (D).
 This list is in chronological order.
 
 + N: Sora Sagano
-+ E: 
++ E: sagano@dotcolon.net
++ W: http://dotcolon.net
 + D: Designer
 
 + N: Stefan Peev, Context Ltd.
