@@ -3,25 +3,29 @@
 [Glyphs font editor](http://glyphsapp.com/) で開くことができます。
 
 
-### License
+# License
 SIL Open Font Licenseライセンスの元で公開しています。
 
 http://ja.wikipedia.org/wiki/SIL_Open_Font_License
 
-### Copywrite
+# Copywrite
 Copywrite holder of the Aileron typeface is Sora Sagano.
 
-### Acknowledgements
+# Acknowledgements
 
 If you make modifications be sure to add your name (N),
 email (if you have one) (E), web-address (if you have one) (W),
 twitter handle (if you have one) (T) and description (D).
 This list is in chronological order.
 
+### Author
+
 + N: Sora Sagano
 + E: sagano@dotcolon.net
 + W: http://dotcolon.net
 + D: Designer
+
+### Contributors
 
 + N: Stefan Peev, Context Ltd.
 + E: context.bg@gmail.com
