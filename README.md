@@ -30,4 +30,4 @@ This list is in chronological order.
 + N: Stefan Peev, Context Ltd.
 + E: context.bg@gmail.com
 + W: http://www.contextbg.net
-+ D: Cyrillic (both basic Cyrillic script and locl forms of Cyrillic for modern Bulgarian Cyrillic, for Serbian Cyrillic, for Macedonian Cyrillic and other languages using Cyrillic alphabet)and modification of some glyphs
++ D: Cyrillic (both basic Cyrillic script and locl forms of Cyrillic for modern Bulgarian Cyrillic, for Serbian Cyrillic, for Macedonian Cyrillic and other languages using Cyrillic alphabet) and modification of some glyphs
